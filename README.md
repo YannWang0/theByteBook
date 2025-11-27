@@ -20,15 +20,11 @@
 
 整个系列的内容主要集中在 `网络`、`集群以及服务治理`、`FinOps` 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本。
 
-我会持续更新这个仓库的内容，如果想要关注可以点 `star` 。
+~~我会持续更新这个仓库的内容~~，如果想要关注可以点 `star` 。
 
-
-:::center
 
 [![Star History Chart](https://api.star-history.com/svg?repos=isno/thebytebook&type=Date)](https://star-history.com/#isno/thebytebook&Date)
 <p><a href="https://github.com/isno/theByteBook">https://github.com/isno/theByteBook</a></p>
-:::
-
 
 
 ## 如何阅读
